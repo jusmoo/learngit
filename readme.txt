@@ -8,8 +8,8 @@ set your local git
 	$git --global user.name "your name"
 	$git --global user.email "your email address"
 
+watch your git
+	$git status
+	$git diff
 
-
-$git status
-$git diff
 
